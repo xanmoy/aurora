@@ -2,6 +2,8 @@
 
 ## <h1 name="header"> Aurora AI</h1>
 
+![Aurora](https://raw.githubusercontent.com/xanmoy/aurora/main/public/cover.jpeg)
+
 Aurora AI is an intelligent assistant powered by cutting-edge technology, including Next.js, Chakra UI, Tailwind CSS, and the Gemini AI API. It offers users a seamless and intuitive experience for interacting with artificial intelligence.
 
 ## Features
