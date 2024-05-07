@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Jersey+25&display=swap');
+
+.contain {
+  background-color: var(--bg);
+  color: var(--textColor);
+}
+
+.dark {
+  --bg: #000000;
+  --bgSecondary: #232425;
+  --bgChatSecondary: #3b3c3d;
+  --textColor: #444746;
+  --softBg: #1f273a;
+  --softTextColor: #a6a6a6;
+}
+
+.light {
+  --bg: white;
+  --bgSecondary: #f1f5f9;
+  --textColor: black;
+  --softBg: #f0f0f0;
+  --softTextColor: #626262;
+}
+
+:root {
+  min-height: 100vh;
+}
+
+.zero-text {
+  font-family: "Jersey 25", sans-serif;
+
+
+
+}
