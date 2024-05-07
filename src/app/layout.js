@@ -5,8 +5,8 @@ import ContextProvider from "@/context/ContextProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Synthia AI",
-  description: "Synthia AI is a powerful AI developed by Xanmoy",
+  title: "Aurora AI",
+  description: "Aurora AI is a powerful AI developed by Xanmoy",
 };
 
 

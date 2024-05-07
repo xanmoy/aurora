@@ -43,7 +43,7 @@ export default function Home() {
             alt="hero"
             width={400}
             height={400}
-            className="object-cover"
+            className="object-cover img-br"
           />
         </div>
       </div>
