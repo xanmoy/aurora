@@ -21,7 +21,7 @@ export default function Home() {
           
           <span className="mb-2">
             Aurora AI is a powerful AI developed by
-            <a href="https://xanmoy.me" className='text-blue-600'> Xanmoy</a>
+            <a href="https://xanmoy.me" className='text-blue-600'>Team Xanmoy</a>
             
             .
           

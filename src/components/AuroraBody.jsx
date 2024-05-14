@@ -41,7 +41,8 @@ const AuroraBody = () => {
   };
   return (
     <div className="flex-1 min-h-[100vh] pb-[15vh] relative">
-      <Navigator />
+      {/* <Navigator /> */}
+      <Navbar/>
       <div className="max-w-[900px] m-auto">
         {!displayResult ? (
           <>
@@ -94,8 +95,11 @@ const AuroraBody = () => {
               </div>
             </div>
           </form>
-          <p className="text-gray-400 text-xs	 text-center p-3">
+          <p className="text-gray-400 text-xs text-center p-3">
             Developed by <a className="text-blue-600" href="https://github.com/xanmoy">Xanmoy</a>
+            &nbsp;&amp;&nbsp;
+
+            <a className="text-blue-600" href="https://www.linkedin.com/in/anushwa-bhattacharya-aa7909252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Anushwa</a>
           </p>
         </div>
       </div>
